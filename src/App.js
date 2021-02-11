@@ -28,7 +28,7 @@ class App extends Component{
     })
         return (
             <div className='tc'>
-                <h1 className='f1'>Robot Friends</h1>
+                <h1 className='f1'>RoboFriends</h1>
                 <div>
                     <input className='f6 link ba bw1 ph3 pv2 mb2 dib black' type="text" value={this.state.searchfield} onChange = {this.onSearchChange}/>
                     <button className='f6 link ba bw1 ph3 pv2 mb2 dib black' type="submit" onClick={this.submitHandler}>🔍</button>
