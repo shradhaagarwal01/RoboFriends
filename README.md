@@ -3,7 +3,11 @@
 <table>
 	<tr>
 		<td>
-			RoboFriends in a ReactJS web application which is a Card UI and has different users' information in card form and we can search dynamically through those cards by name of the user.
+			A single page application where the user can search for robot friends among all.
+
+Deployed on GitHub Pages.
+
+This project was created with HTML5, CSS3, JavaScript, React, Redux, tachyons, robohash API and jsonplaceholder API.
 		</td>
 	</tr>
 </table>
